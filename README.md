@@ -2,8 +2,8 @@
 
 > Full-stack engineering assessment submission. A multi-user AI-powered travel planning application.
 
-**Live Demo**: [https://voyage-travel.vercel.app](https://voyage-travel.vercel.app) _(deploy URL here)_
-**Walkthrough Video**: [Link to recording]
+**Live Demo**: https://voyage-u5xv-31jflbjgj-meemansha-s-projects.vercel.app/
+**Walkthrough Video**: https://www.loom.com/share/1a2f456407fa4ccfa992f7e912f4b0b6
 
 ---
 
